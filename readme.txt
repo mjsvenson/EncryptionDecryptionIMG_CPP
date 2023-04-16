@@ -5,11 +5,9 @@
 
  Name: Matthew Svenson
 
-/**********************************************************************
- *  Briefly discuss the assignment itself and what you accomplished.
- **********************************************************************/
+This software uses a Fibonacci Left Shift Register to encrypt and decrypt images using a 16 bit string.
 
-This software uses a Fibonacci Left Shift Register to encrypt and decrypt images using a 16 bit string
+The included png's "encode" and "decode" show an example of the encryption and decryption process.
 
 /**********************************************************************
  *  Briefly explain the workings of the features you implemented.
